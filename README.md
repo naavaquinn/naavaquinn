@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate coder with a wide array of intere
 - 👀 I’m deeply interested in coding and technology.
 - 🌱 I’m currently expanding my knowledge in:
   - **Web Development**: 
-    - **HTML**: The standard markup language for creating web pages.
-    - **CSS**: The language used to style HTML documents.
-    - **Bootstrap**: A popular CSS framework for building responsive, mobile-first websites.
-    - **JavaScript**: A versatile programming language essential for web development.
+    - **HTML**:
+    - **CSS**: 
+    - **Bootstrap**: 
+    - **JavaScript**:
       - Libraries and frameworks: React, Angular, Vue.js, jQuery.
     - **PHP**: A server-side scripting language used to create dynamic web pages.
       - Frameworks: Laravel, Symfony.
@@ -41,12 +41,12 @@ Welcome to my GitHub profile! I'm a passionate coder with a wide array of intere
   - **Communication and Collaboration**:
     - **Slack**: A messaging app for teams that supports collaboration and communication.
   - **Design**:
-    - **Graphics Design**: The art of creating visual content to communicate messages.
+    - **Graphics Design**:
       - Tools: Adobe Photoshop, Illustrator, GIMP, Figma.
   - **Marketing**:
     - **SEO/SEM**: Search Engine Optimization and Search Engine Marketing techniques to increase the visibility of websites.
       - Tools: Google Analytics, SEMrush, Moz.
-  - **Linguistics**: The scientific study of language and its structure, including the study of syntax, phonetics, and semantics.
+  - **Linguistics**: phonetics,syntactic parsing and speech annotation
 
 ## Collaboration
 - 💞️ I’m looking to collaborate on projects where I can contribute my skills and learn from others. If you're working on something exciting, feel free to reach out!
